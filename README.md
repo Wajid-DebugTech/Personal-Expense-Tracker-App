@@ -11,5 +11,5 @@ An expense tracking app.
 5. Scan the generated QR code with your mobile device, this will open the app with Expo Go
 
 ## Project Explanation
-This app uses the `blank-typescript` Expo template via `npx create-expo-app@latest --template --no-agents-md`.
+This app uses the `blank-typescript` Expo template via `npx create-expo-app@latest --template --no-agents-md`. The mock data (`src/data/mockData.json`) was generated via Faker.js.
 

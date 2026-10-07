@@ -1,0 +1,565 @@
+[
+  {
+    "id": "fb9220d9-b0fd-4322-8486-492457c38909",
+    "title": "Clothes",
+    "amount": 285.18,
+    "category": "Shopping",
+    "date": "2026-10-02T23:27:37.807Z",
+    "paymentMethod": "Digital Wallet",
+    "recurrence": "Daily",
+    "notes": "Decerno animus deputo adeo verbera caute somniculosus color."
+  },
+  {
+    "id": "e5619078-4900-4d52-98c3-91088abf85c4",
+    "title": "Movie tickets",
+    "amount": 7.91,
+    "category": "Entertainment",
+    "date": "2026-10-02T14:43:28.082Z",
+    "paymentMethod": "Digital Wallet",
+    "recurrence": "Monthly"
+  },
+  {
+    "id": "30d0d8fc-f5c6-47ad-9fc6-6b31544300f6",
+    "title": "Rent",
+    "amount": 146.58,
+    "category": "Bills",
+    "date": "2026-10-01T01:34:34.520Z",
+    "paymentMethod": "Bank Transfer",
+    "recurrence": "Monthly",
+    "notes": "Utroque vinco deleo placeat aspernatur vulgaris."
+  },
+  {
+    "id": "1f55dffc-61c8-46e1-8707-011ab9f54d3f",
+    "title": "Bakery",
+    "amount": 7.71,
+    "category": "Food",
+    "date": "2026-09-23T21:21:25.005Z",
+    "paymentMethod": "Debit Card",
+    "recurrence": "Yearly",
+    "notes": "Volubilis eos quo subito deficio quis nulla."
+  },
+  {
+    "id": "248ba4fb-8963-45c0-9100-db71772669a0",
+    "title": "Train ticket",
+    "amount": 41.74,
+    "category": "Transport",
+    "date": "2026-09-19T15:53:31.790Z",
+    "paymentMethod": "Bank Transfer",
+    "recurrence": "None",
+    "notes": "Acquiro occaecati vilicus necessitatibus cresco sed defungo in."
+  },
+  {
+    "id": "fa983232-c50f-4eef-b26c-b2d338991e42",
+    "title": "Ride share",
+    "amount": 69.39,
+    "category": "Transport",
+    "date": "2026-09-13T22:21:10.713Z",
+    "paymentMethod": "Bank Transfer",
+    "recurrence": "Weekly",
+    "notes": "Corroboro caveo supra derelinquo aggero bonus."
+  },
+  {
+    "id": "373ff0be-29e0-4b4e-8ff7-dd5d09311b5b",
+    "title": "Haircut",
+    "amount": 83.23,
+    "category": "Other",
+    "date": "2026-09-11T15:19:38.408Z",
+    "paymentMethod": "Credit Card",
+    "recurrence": "Monthly"
+  },
+  {
+    "id": "bc06704c-2830-43fc-bf71-87d1725b7667",
+    "title": "Museum",
+    "amount": 114.87,
+    "category": "Entertainment",
+    "date": "2026-09-11T04:08:34.886Z",
+    "paymentMethod": "Credit Card",
+    "recurrence": "Monthly"
+  },
+  {
+    "id": "6fe31101-a15d-40d4-b1ba-ebc42ccf65c5",
+    "title": "Repairs",
+    "amount": 67.2,
+    "category": "Other",
+    "date": "2026-09-06T18:38:25.424Z",
+    "paymentMethod": "Bank Transfer",
+    "recurrence": "None"
+  },
+  {
+    "id": "aeb30490-795c-411b-87b6-3dcb4951e2f7",
+    "title": "Gift",
+    "amount": 263.16,
+    "category": "Shopping",
+    "date": "2026-09-04T12:02:39.755Z",
+    "paymentMethod": "Digital Wallet",
+    "recurrence": "Monthly"
+  },
+  {
+    "id": "94c25683-1949-4278-b052-1f5c4ac9765e",
+    "title": "Insurance",
+    "amount": 92.09,
+    "category": "Bills",
+    "date": "2026-09-04T08:04:11.555Z",
+    "paymentMethod": "Digital Wallet",
+    "recurrence": "Monthly",
+    "notes": "Talio natus turba."
+  },
+  {
+    "id": "4c7dbca2-8fe0-422b-9d38-db89849bdac2",
+    "title": "Donation",
+    "amount": 40.77,
+    "category": "Other",
+    "date": "2026-09-03T19:10:11.319Z",
+    "paymentMethod": "Digital Wallet",
+    "recurrence": "None"
+  },
+  {
+    "id": "fa8b708f-2b38-417c-85ac-e362fe8d891c",
+    "title": "Bowling",
+    "amount": 94.94,
+    "category": "Entertainment",
+    "date": "2026-09-01T15:17:39.782Z",
+    "paymentMethod": "Cash",
+    "recurrence": "Daily",
+    "notes": "Alias viduo iste cohaero crux."
+  },
+  {
+    "id": "9ce5d1d2-6c23-4bba-bb84-52e967f29890",
+    "title": "Bakery",
+    "amount": 52.6,
+    "category": "Food",
+    "date": "2026-08-31T03:53:00.677Z",
+    "paymentMethod": "Digital Wallet",
+    "recurrence": "Monthly",
+    "notes": "Pectus curriculum tabgo victus vespillo defendo amplitudo."
+  },
+  {
+    "id": "b2dd8b57-d757-4d52-8bd1-3257ba95d7fa",
+    "title": "Takeaway",
+    "amount": 31.96,
+    "category": "Food",
+    "date": "2026-08-29T21:39:21.387Z",
+    "paymentMethod": "Cash",
+    "recurrence": "None"
+  },
+  {
+    "id": "26f6a64f-6e33-40a5-9d7f-2dccdca20e9c",
+    "title": "Donation",
+    "amount": 23.15,
+    "category": "Other",
+    "date": "2026-08-29T19:25:30.252Z",
+    "paymentMethod": "Debit Card",
+    "recurrence": "Daily"
+  },
+  {
+    "id": "4a8c1c8f-5ae1-4eb1-94b1-9590dffb2c00",
+    "title": "Phone plan",
+    "amount": 466.84,
+    "category": "Bills",
+    "date": "2026-08-29T12:46:43.578Z",
+    "paymentMethod": "Debit Card",
+    "recurrence": "Monthly",
+    "notes": "Cursim defendo ascit theatrum suadeo bos agnitio sponte solium certe."
+  },
+  {
+    "id": "08bdbc5d-1e8d-47a8-8b10-32d3f52ca78b",
+    "title": "Repairs",
+    "amount": 146.35,
+    "category": "Other",
+    "date": "2026-08-25T12:14:36.667Z",
+    "paymentMethod": "Cash",
+    "recurrence": "Monthly",
+    "notes": "Causa delectatio ustilo."
+  },
+  {
+    "id": "01a028ba-3b35-4bad-aa91-543f6eac8973",
+    "title": "Internet",
+    "amount": 34.1,
+    "category": "Bills",
+    "date": "2026-08-24T22:01:58.049Z",
+    "paymentMethod": "Cash",
+    "recurrence": "Monthly"
+  },
+  {
+    "id": "209a083a-2b6e-4251-bee4-ad8831eea55b",
+    "title": "Ride share",
+    "amount": 63.05,
+    "category": "Transport",
+    "date": "2026-08-24T11:57:30.848Z",
+    "paymentMethod": "Cash",
+    "recurrence": "None"
+  },
+  {
+    "id": "86315f58-b5ff-4474-a409-804e327f3ac3",
+    "title": "Coffee",
+    "amount": 58.38,
+    "category": "Food",
+    "date": "2026-08-23T11:03:53.647Z",
+    "paymentMethod": "Debit Card",
+    "recurrence": "None"
+  },
+  {
+    "id": "82fcfe9e-1305-464d-9548-2c1fc30dbbc1",
+    "title": "Electricity",
+    "amount": 520.6,
+    "category": "Bills",
+    "date": "2026-08-22T05:06:24.567Z",
+    "paymentMethod": "Credit Card",
+    "recurrence": "Monthly",
+    "notes": "Communis suspendo repellendus valens demens."
+  },
+  {
+    "id": "38b935c8-0c0b-43f5-9524-ef57be966b09",
+    "title": "Bowling",
+    "amount": 15.69,
+    "category": "Entertainment",
+    "date": "2026-08-17T22:20:46.128Z",
+    "paymentMethod": "Debit Card",
+    "recurrence": "Monthly",
+    "notes": "Laudantium laudantium pax spes tibi centum tremo."
+  },
+  {
+    "id": "94c47016-794b-4dc0-8713-f279b8058150",
+    "title": "Coffee",
+    "amount": 15.41,
+    "category": "Food",
+    "date": "2026-08-15T09:50:58.245Z",
+    "paymentMethod": "Bank Transfer",
+    "recurrence": "Yearly",
+    "notes": "Amicitia repellat suffoco addo."
+  },
+  {
+    "id": "6e82bc5d-e4f2-432e-9a27-91ec8f6faa2e",
+    "title": "Movie tickets",
+    "amount": 6.44,
+    "category": "Entertainment",
+    "date": "2026-08-14T11:03:16.382Z",
+    "paymentMethod": "Debit Card",
+    "recurrence": "Monthly"
+  },
+  {
+    "id": "83697f2b-66bb-4f21-ab94-11e3535181c3",
+    "title": "Insurance",
+    "amount": 397.51,
+    "category": "Bills",
+    "date": "2026-08-11T04:35:25.109Z",
+    "paymentMethod": "Credit Card",
+    "recurrence": "Monthly"
+  },
+  {
+    "id": "b655f0d9-7b7d-4e64-89e3-9ab2be23f2d7",
+    "title": "Museum",
+    "amount": 56.21,
+    "category": "Entertainment",
+    "date": "2026-08-08T23:28:30.436Z",
+    "paymentMethod": "Credit Card",
+    "recurrence": "Weekly",
+    "notes": "Volubilis causa solum communis terebro aperte."
+  },
+  {
+    "id": "de65959b-b526-42e5-820a-a5164a953f7b",
+    "title": "Concert",
+    "amount": 8.16,
+    "category": "Entertainment",
+    "date": "2026-08-07T20:03:44.979Z",
+    "paymentMethod": "Digital Wallet",
+    "recurrence": "Daily",
+    "notes": "Cresco artificiose acervus."
+  },
+  {
+    "id": "e50e6ffd-46d5-428e-bb91-9f28ebbb54cc",
+    "title": "Repairs",
+    "amount": 79.14,
+    "category": "Other",
+    "date": "2026-08-07T08:31:46.631Z",
+    "paymentMethod": "Bank Transfer",
+    "recurrence": "Monthly"
+  },
+  {
+    "id": "98656c9e-79a9-4b38-9167-af9b8a145702",
+    "title": "Repairs",
+    "amount": 53.04,
+    "category": "Other",
+    "date": "2026-08-04T23:30:22.057Z",
+    "paymentMethod": "Cash",
+    "recurrence": "Monthly",
+    "notes": "Ea abscido absens blanditiis."
+  },
+  {
+    "id": "205966e5-8c69-4df2-8e74-7f75a312222a",
+    "title": "Fuel",
+    "amount": 72.06,
+    "category": "Transport",
+    "date": "2026-08-03T23:50:58.530Z",
+    "paymentMethod": "Bank Transfer",
+    "recurrence": "None",
+    "notes": "Asporto cibo atqui."
+  },
+  {
+    "id": "064bf4a3-97f9-4512-b34d-881db1b81772",
+    "title": "Repairs",
+    "amount": 102.01,
+    "category": "Other",
+    "date": "2026-08-02T13:41:28.721Z",
+    "paymentMethod": "Debit Card",
+    "recurrence": "Monthly"
+  },
+  {
+    "id": "871a39a2-0c70-4f0b-9f32-141b08fd9498",
+    "title": "Bus fare",
+    "amount": 71.27,
+    "category": "Transport",
+    "date": "2026-08-01T01:03:33.698Z",
+    "paymentMethod": "Cash",
+    "recurrence": "Daily"
+  },
+  {
+    "id": "fad787a2-04b3-4af1-aa7d-2bdfa79d90eb",
+    "title": "Groceries",
+    "amount": 60.67,
+    "category": "Food",
+    "date": "2026-07-25T05:19:29.599Z",
+    "paymentMethod": "Bank Transfer",
+    "recurrence": "None"
+  },
+  {
+    "id": "0f6dc9be-65ac-4cc6-ad18-0556b6735319",
+    "title": "Stationery",
+    "amount": 72.21,
+    "category": "Other",
+    "date": "2026-07-23T12:06:09.624Z",
+    "paymentMethod": "Digital Wallet",
+    "recurrence": "Weekly"
+  },
+  {
+    "id": "5faa590a-e9db-41e1-9820-64790185badb",
+    "title": "Takeaway",
+    "amount": 27.68,
+    "category": "Food",
+    "date": "2026-07-14T12:58:33.000Z",
+    "paymentMethod": "Bank Transfer",
+    "recurrence": "Weekly"
+  },
+  {
+    "id": "d4ab8430-4afd-4cca-b4ea-8177d86f160b",
+    "title": "Taxi",
+    "amount": 69.1,
+    "category": "Transport",
+    "date": "2026-07-12T19:42:17.595Z",
+    "paymentMethod": "Digital Wallet",
+    "recurrence": "Monthly"
+  },
+  {
+    "id": "8c70c342-5c83-4eed-b37f-c017e871ad6c",
+    "title": "Groceries",
+    "amount": 49.01,
+    "category": "Food",
+    "date": "2026-07-12T04:49:47.460Z",
+    "paymentMethod": "Bank Transfer",
+    "recurrence": "Weekly"
+  },
+  {
+    "id": "c96319ca-80fc-44f9-89bc-a25e35679f31",
+    "title": "Ride share",
+    "amount": 52.73,
+    "category": "Transport",
+    "date": "2026-07-12T01:13:29.956Z",
+    "paymentMethod": "Digital Wallet",
+    "recurrence": "Yearly"
+  },
+  {
+    "id": "105cbc87-2561-439b-8fea-6ac16d699255",
+    "title": "Clothes",
+    "amount": 251.2,
+    "category": "Shopping",
+    "date": "2026-07-10T11:38:28.466Z",
+    "paymentMethod": "Debit Card",
+    "recurrence": "Daily"
+  },
+  {
+    "id": "d0e7aaea-9182-4b8a-801b-110fb545ca22",
+    "title": "Train ticket",
+    "amount": 61.86,
+    "category": "Transport",
+    "date": "2026-07-09T12:08:45.063Z",
+    "paymentMethod": "Cash",
+    "recurrence": "None"
+  },
+  {
+    "id": "c7189b62-45a9-45f9-b312-32242e186f16",
+    "title": "Museum",
+    "amount": 98.97,
+    "category": "Entertainment",
+    "date": "2026-07-08T15:13:45.791Z",
+    "paymentMethod": "Cash",
+    "recurrence": "Monthly"
+  },
+  {
+    "id": "17358b0c-a1de-404c-8b23-57957b04be88",
+    "title": "Coffee",
+    "amount": 49.81,
+    "category": "Food",
+    "date": "2026-07-06T18:02:36.756Z",
+    "paymentMethod": "Credit Card",
+    "recurrence": "Daily",
+    "notes": "Beneficium complectus animadverto validus optio."
+  },
+  {
+    "id": "bc8c7860-10a5-48e3-b6c3-142ecadc2e8c",
+    "title": "Groceries",
+    "amount": 13.46,
+    "category": "Food",
+    "date": "2026-07-04T23:29:02.633Z",
+    "paymentMethod": "Debit Card",
+    "recurrence": "Yearly"
+  },
+  {
+    "id": "194f7c80-af9d-4e33-896d-e53c4d6a1979",
+    "title": "Bowling",
+    "amount": 104.23,
+    "category": "Entertainment",
+    "date": "2026-07-03T14:42:14.557Z",
+    "paymentMethod": "Cash",
+    "recurrence": "None"
+  },
+  {
+    "id": "566989cd-bf03-40ae-93e0-e517444c849b",
+    "title": "Coffee",
+    "amount": 14.48,
+    "category": "Food",
+    "date": "2026-06-29T06:29:42.735Z",
+    "paymentMethod": "Bank Transfer",
+    "recurrence": "None"
+  },
+  {
+    "id": "c322da85-e6d7-4674-ab83-e68e91fa52c9",
+    "title": "Bakery",
+    "amount": 71.82,
+    "category": "Food",
+    "date": "2026-06-25T16:11:38.244Z",
+    "paymentMethod": "Credit Card",
+    "recurrence": "Daily"
+  },
+  {
+    "id": "04fe7943-7591-4ffb-984d-a2edfb96ed00",
+    "title": "Laundry",
+    "amount": 148.16,
+    "category": "Other",
+    "date": "2026-06-25T12:30:38.037Z",
+    "paymentMethod": "Debit Card",
+    "recurrence": "Daily"
+  },
+  {
+    "id": "d1ed8960-5c05-468e-a55b-7372276e59a0",
+    "title": "Haircut",
+    "amount": 144.36,
+    "category": "Other",
+    "date": "2026-06-25T07:22:27.752Z",
+    "paymentMethod": "Debit Card",
+    "recurrence": "None"
+  },
+  {
+    "id": "98e7fd3e-1d6e-4dcc-8416-2b5fad2de79c",
+    "title": "Gift",
+    "amount": 125.61,
+    "category": "Shopping",
+    "date": "2026-06-25T00:40:22.648Z",
+    "paymentMethod": "Credit Card",
+    "recurrence": "None",
+    "notes": "Vix inflammatio vociferor damnatio."
+  },
+  {
+    "id": "a313bdd6-a34e-4013-9029-6ed546949686",
+    "title": "Ride share",
+    "amount": 61.8,
+    "category": "Transport",
+    "date": "2026-06-24T06:20:28.635Z",
+    "paymentMethod": "Digital Wallet",
+    "recurrence": "Weekly"
+  },
+  {
+    "id": "d5e60e15-ff9a-4745-8acc-c17087e512c9",
+    "title": "Electricity",
+    "amount": 426.56,
+    "category": "Bills",
+    "date": "2026-06-16T01:08:23.969Z",
+    "paymentMethod": "Digital Wallet",
+    "recurrence": "Monthly"
+  },
+  {
+    "id": "fb4d4d1b-8130-4749-b44b-0eda9e213c09",
+    "title": "Bakery",
+    "amount": 48.84,
+    "category": "Food",
+    "date": "2026-06-14T22:25:49.768Z",
+    "paymentMethod": "Digital Wallet",
+    "recurrence": "Weekly",
+    "notes": "Verbera sortitus tricesimus."
+  },
+  {
+    "id": "15c984e6-1915-48d7-abf2-4666eb94dfd0",
+    "title": "Lunch",
+    "amount": 26.15,
+    "category": "Food",
+    "date": "2026-06-14T10:22:41.633Z",
+    "paymentMethod": "Bank Transfer",
+    "recurrence": "Monthly",
+    "notes": "Defleo corporis animi curatio tantillus aeneus."
+  },
+  {
+    "id": "6048a42d-f824-40e1-9948-ad302ed99a2e",
+    "title": "Concert",
+    "amount": 64.68,
+    "category": "Entertainment",
+    "date": "2026-06-12T21:36:22.534Z",
+    "paymentMethod": "Cash",
+    "recurrence": "Monthly",
+    "notes": "Cariosus creta civitas constans super clibanus maxime."
+  },
+  {
+    "id": "731285d6-39b2-420b-ba7d-c9d31408e017",
+    "title": "Haircut",
+    "amount": 78.55,
+    "category": "Other",
+    "date": "2026-06-12T05:48:54.864Z",
+    "paymentMethod": "Cash",
+    "recurrence": "Yearly"
+  },
+  {
+    "id": "6dd2c772-1b76-4bc2-b92c-af10443e34c7",
+    "title": "Bus fare",
+    "amount": 40.54,
+    "category": "Transport",
+    "date": "2026-06-11T06:30:37.908Z",
+    "paymentMethod": "Cash",
+    "recurrence": "Yearly",
+    "notes": "Cunctatio conor velum acer sonitus vix laborum."
+  },
+  {
+    "id": "d7640ddf-f8cf-4d37-b2f9-3a951a8c8d88",
+    "title": "Pharmacy",
+    "amount": 24.43,
+    "category": "Other",
+    "date": "2026-06-10T16:21:56.106Z",
+    "paymentMethod": "Bank Transfer",
+    "recurrence": "Monthly"
+  },
+  {
+    "id": "91b3e330-791c-4787-8682-2df54a602ba0",
+    "title": "Internet",
+    "amount": 409.7,
+    "category": "Bills",
+    "date": "2026-06-09T13:48:08.508Z",
+    "paymentMethod": "Cash",
+    "recurrence": "Monthly"
+  },
+  {
+    "id": "1d779d5a-94ec-4add-bbdb-a9c2ed0d25b2",
+    "title": "Bowling",
+    "amount": 63.36,
+    "category": "Entertainment",
+    "date": "2026-06-07T22:47:15.868Z",
+    "paymentMethod": "Credit Card",
+    "recurrence": "Monthly"
+  }
+]
