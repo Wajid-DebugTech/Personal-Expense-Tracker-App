@@ -3,14 +3,12 @@ import { View, Text, StyleSheet } from "react-native";
 interface DashboardCardProps {
   cardTitle: string;
   cardInfo: string;
-  cardSubtitle?: string;
 }
 
-export default function DashboardCard({ cardTitle, cardInfo, cardSubtitle }: DashboardCardProps  ) {
+export default function DashboardCard({ cardTitle, cardInfo }: DashboardCardProps  ) {
   return (
     <View style={styles.card}>
       <Text style={styles.cardTitle}>{cardTitle}</Text>
-      {cardSubtitle && <Text style={styles.cardSubtitle}>{cardSubtitle}</Text>}
       <Text style={styles.cardInfo}>{cardInfo}</Text>
     </View>
   );
@@ -34,11 +32,6 @@ const styles = StyleSheet.create({
   cardInfo: {
     fontSize: 24,
     color: "#333",
-    fontWeight: "400",
-  },
-  cardSubtitle: {
-    fontSize: 16,
-    color: "#666",
     fontWeight: "400",
   },
 });
