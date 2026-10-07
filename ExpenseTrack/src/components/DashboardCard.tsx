@@ -1,54 +1,44 @@
 import { View, Text, StyleSheet } from "react-native";
 
-export default function DashboardCard() {
+interface DashboardCardProps {
+  cardTitle: string;
+  cardInfo: string;
+  cardSubtitle?: string;
+}
+
+export default function DashboardCard({ cardTitle, cardInfo, cardSubtitle }: DashboardCardProps  ) {
   return (
-    <View style={styles.container}>
-      <View style={styles.totalCard}>
-        <Text>Total Expenses for this month</Text>
-        <Text>$12.25</Text>
-      </View>
-      <View style={styles.secondaryInfoContainer}>
-        <View style={styles.secondaryInfoCard}>
-          <Text># of Expenses</Text>
-        </View>
-        <View style={styles.secondaryInfoCard}>
-          <Text>Highest Spending Category</Text>
-        </View>
-      </View>
+    <View style={styles.card}>
+      <Text style={styles.cardTitle}>{cardTitle}</Text>
+      {cardSubtitle && <Text style={styles.cardSubtitle}>{cardSubtitle}</Text>}
+      <Text style={styles.cardInfo}>{cardInfo}</Text>
     </View>
   );
 }
 
 const styles = StyleSheet.create({
-  container: {
+  card: {
     flex: 1,
-    backgroundColor: "#fff",
+    backgroundColor: "#dee",
     borderRadius: 8,
-    alignItems: "center",
-    padding: 16,
-    margin: 16,
+    paddingVertical: 16,
+    paddingHorizontal: 24,
+    marginVertical: 4,
+    marginHorizontal: 16,
   },
-  totalCard: {
-    width: "100%",
-    backgroundColor: "#f00",
-    borderRadius: 8,
-    alignItems: "center",
-    padding: 16,
-    marginBottom: 16,
+  cardTitle: {
+    fontSize: 20,
+    color: "#000",
+    fontWeight: "800",
   },
-  secondaryInfoContainer: {
-    flex: 2,
-    flexDirection: "row",
-    width: "100%",
-    alignItems: "center",
-    backgroundColor: "#f00",
-    gap: 8,
+  cardInfo: {
+    fontSize: 24,
+    color: "#333",
+    fontWeight: "400",
   },
-  secondaryInfoCard: {
-    flex: 1,
-    alignItems: "center",
-    padding: 16,
-    borderRadius: 8,
-    backgroundColor: "#0f0",
+  cardSubtitle: {
+    fontSize: 16,
+    color: "#666",
+    fontWeight: "400",
   },
 });
